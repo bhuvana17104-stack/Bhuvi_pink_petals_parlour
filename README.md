@@ -1,5 +1,4 @@
 # Pink Petals Parlour 🌸
-
 A responsive beauty parlour website built using HTML, CSS, and JavaScript, with Firebase Firestore integration for appointment booking.
 
 ## Features
